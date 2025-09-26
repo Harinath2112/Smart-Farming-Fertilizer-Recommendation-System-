@@ -57,6 +57,9 @@ Enabled real-time fertilizer amount prediction based on user inputs for soil and
 Problem Statement
 Farmers often face challenges in identifying the right type and quantity of fertilizer, which can lead to underuse or overuse, impacting yield and the environment. This project aims to develop a data-driven machine learning system to optimize fertilizer use, enhancing both productivity and sustainability.
 
+## Project Snapshot
+![Dashboard Screenshot](output.png)
+
 Results
 Developed a robust machine learning pipeline with Random Forest achieving RMSE ≈ 1.6 and R² ≈ 0.89.
 
